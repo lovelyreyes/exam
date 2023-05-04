@@ -5,4 +5,4 @@ To run the app:
 3. php artisan migrate:fresh
 4. php artisan serve
 
-For accessing the user through Rest API: http://127.0.0.1:8000/api/user/7
+For accessing the user through Rest API: http://127.0.0.1:8000/api/user/1
